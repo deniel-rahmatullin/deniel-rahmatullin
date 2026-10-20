@@ -11,4 +11,4 @@ SQL (MySQL), Excel (pivot tables, dashboards), learning Tableau and Python
 - [Bike Buyers Dashboard (Excel)](https://github.com/deniel-rahmatullin/excel-bike-sales-dashboard)
 
 ## Contact
-[denielrahmatullin@gnail.com] | [@denielrh] | [www.linkedin.com/in/deniel-raxmatullin]
+Email:[denielrahmatullin@gnail.com] | Telegram:[@denielrh] | LinkedIn:[www.linkedin.com/in/deniel-raxmatullin]
